@@ -1,0 +1,11 @@
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI.Test\bin\Debug\netcoreapp2.1\InvoiceAPI.Test.deps.json
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI.Test\bin\Debug\netcoreapp2.1\InvoiceAPI.Test.runtimeconfig.json
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI.Test\bin\Debug\netcoreapp2.1\InvoiceAPI.Test.runtimeconfig.dev.json
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI.Test\bin\Debug\netcoreapp2.1\InvoiceAPI.Test.dll
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI.Test\obj\Debug\netcoreapp2.1\InvoiceAPI.Test.csprojAssemblyReference.cache
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI.Test\obj\Debug\netcoreapp2.1\InvoiceAPI.Test.csproj.CoreCompileInputs.cache
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI.Test\obj\Debug\netcoreapp2.1\InvoiceAPI.Test.AssemblyInfoInputs.cache
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI.Test\obj\Debug\netcoreapp2.1\InvoiceAPI.Test.AssemblyInfo.cs

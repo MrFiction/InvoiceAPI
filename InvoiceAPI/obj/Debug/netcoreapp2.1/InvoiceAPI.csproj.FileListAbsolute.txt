@@ -1,0 +1,28 @@
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI\bin\Debug\netcoreapp2.1\InvoiceAPI.deps.json
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI\bin\Debug\netcoreapp2.1\InvoiceAPI.runtimeconfig.json
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI\bin\Debug\netcoreapp2.1\InvoiceAPI.runtimeconfig.dev.json
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI\bin\Debug\netcoreapp2.1\InvoiceAPI.dll
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI\bin\Debug\netcoreapp2.1\InvoiceAPI.pdb
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI\obj\Debug\netcoreapp2.1\InvoiceAPI.csprojAssemblyReference.cache
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI\obj\Debug\netcoreapp2.1\InvoiceAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI\obj\Debug\netcoreapp2.1\InvoiceAPI.RazorAssemblyInfo.cache
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI\obj\Debug\netcoreapp2.1\InvoiceAPI.RazorAssemblyInfo.cs
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI\obj\Debug\netcoreapp2.1\InvoiceAPI.AssemblyInfoInputs.cache
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI\obj\Debug\netcoreapp2.1\InvoiceAPI.AssemblyInfo.cs
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI\obj\Debug\netcoreapp2.1\InvoiceAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI\obj\Debug\netcoreapp2.1\InvoiceAPI.dll
+C:\Users\Dainius\Documents\Visual Studio 2017\Projects\InvoiceAPI\InvoiceAPI\obj\Debug\netcoreapp2.1\InvoiceAPI.pdb
+H:\GitHub\InvoiceAPI\InvoiceAPI\bin\Debug\netcoreapp2.1\InvoiceAPI.deps.json
+H:\GitHub\InvoiceAPI\InvoiceAPI\bin\Debug\netcoreapp2.1\InvoiceAPI.runtimeconfig.json
+H:\GitHub\InvoiceAPI\InvoiceAPI\bin\Debug\netcoreapp2.1\InvoiceAPI.runtimeconfig.dev.json
+H:\GitHub\InvoiceAPI\InvoiceAPI\bin\Debug\netcoreapp2.1\InvoiceAPI.dll
+H:\GitHub\InvoiceAPI\InvoiceAPI\bin\Debug\netcoreapp2.1\InvoiceAPI.pdb
+H:\GitHub\InvoiceAPI\InvoiceAPI\obj\Debug\netcoreapp2.1\InvoiceAPI.csprojAssemblyReference.cache
+H:\GitHub\InvoiceAPI\InvoiceAPI\obj\Debug\netcoreapp2.1\InvoiceAPI.csproj.CoreCompileInputs.cache
+H:\GitHub\InvoiceAPI\InvoiceAPI\obj\Debug\netcoreapp2.1\InvoiceAPI.RazorAssemblyInfo.cache
+H:\GitHub\InvoiceAPI\InvoiceAPI\obj\Debug\netcoreapp2.1\InvoiceAPI.RazorAssemblyInfo.cs
+H:\GitHub\InvoiceAPI\InvoiceAPI\obj\Debug\netcoreapp2.1\InvoiceAPI.AssemblyInfoInputs.cache
+H:\GitHub\InvoiceAPI\InvoiceAPI\obj\Debug\netcoreapp2.1\InvoiceAPI.AssemblyInfo.cs
+H:\GitHub\InvoiceAPI\InvoiceAPI\obj\Debug\netcoreapp2.1\InvoiceAPI.RazorTargetAssemblyInfo.cache
+H:\GitHub\InvoiceAPI\InvoiceAPI\obj\Debug\netcoreapp2.1\InvoiceAPI.dll
+H:\GitHub\InvoiceAPI\InvoiceAPI\obj\Debug\netcoreapp2.1\InvoiceAPI.pdb

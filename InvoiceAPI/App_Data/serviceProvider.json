@@ -1,0 +1,8 @@
+{
+  name:"provider",
+  id:132456798,
+  vatInCountryOfOrigin:21,
+  country:"Lithuania",
+  paysVAT:true,
+  inEU:true
+}
